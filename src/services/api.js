@@ -11,17 +11,17 @@ export function loadLists() {
         },
         {
           id: 2,
-          content: "Fazer ao menos uma publicação no Linkedin",
+          content: "Fazer ao menos uma publicação semanal no Linkedin",
           labels: ["#7159c1"],
         },
         {
           id: 3,
-          content: "Estudar POO",
+          content: "Estudar|POO",
           labels: ["#7159c1"],
         },
         {
           id: 4,
-          content: "Dar continuidade nos projetos pessoais ",
+          content: "Continuar projetos pessoais!",
           labels: ["#54e1f7"],
         },
         {
@@ -37,7 +37,7 @@ export function loadLists() {
       cards: [
         {
           id: 6,
-          content: "Criando projeto Kanban",
+          content: "Criando projeto To-do",
           labels: [],
         },
       ],
@@ -70,12 +70,13 @@ export function loadLists() {
         },
         {
           id: 12,
-          content: "Melhorar plataformas comerciais",
+          content:
+            "Melhorar plataformas comerciais (Linkedin, Curriculo, Github",
           labels: ["#54e1f7"],
         },
         {
           id: 13,
-          content: 'Fazer readme nos projetos"',
+          content: "Fazer read.me nos projetos!",
           labels: ["#7159c1"],
         },
       ],
